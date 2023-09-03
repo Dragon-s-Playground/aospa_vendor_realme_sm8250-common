@@ -484,7 +484,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/sm8250-common/proprietary/odm/etc/init/vendor.qti.secure_element@1.2-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.qti.secure_element@1.2-service.rc \
     vendor/realme/sm8250-common/proprietary/odm/etc/seccomp_policy/codec2.vendor.base.policy:$(TARGET_COPY_OUT_ODM)/etc/seccomp_policy/codec2.vendor.base.policy \
     vendor/realme/sm8250-common/proprietary/odm/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml \
-    vendor/realme/sm8250-common/proprietary/odm/etc/vintf/manifest/manifest_oplusSensor.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest/manifest_oplusSensor.xml \
     vendor/realme/sm8250-common/proprietary/odm/etc/vintf/manifest/manifest_oplus_fingerprint.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest/manifest_oplus_fingerprint.xml \
     vendor/realme/sm8250-common/proprietary/odm/etc/wifi/bin_version:$(TARGET_COPY_OUT_ODM)/etc/wifi/bin_version \
     vendor/realme/sm8250-common/proprietary/odm/etc/wifi/regdb.bin:$(TARGET_COPY_OUT_ODM)/etc/wifi/regdb.bin \
